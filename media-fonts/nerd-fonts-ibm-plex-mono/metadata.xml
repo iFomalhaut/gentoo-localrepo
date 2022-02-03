@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+    <maintainer type="person">
+        <email>whx2017@mail.ustc.edu.cn</email>
+        <name>iFomalhaut</name>
+    </maintainer>
+    <longdescription lang="en">
+        A Nerd Font patched version of IBM Plex™ Mono.
+    </longdescription>
+</pkgmetadata>
